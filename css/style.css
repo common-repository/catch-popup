@@ -1,0 +1,197 @@
+
+/* Background Overlay */
+.catch-modal-one {
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    padding: 40px;
+    box-sizing: border-box;
+    text-align: center;
+    display: none;
+}
+
+.catch-modal-one:before {
+    content: "";
+    display: inline-block;
+    height: 100%;
+    vertical-align: middle;
+    margin-right: -0.05em;
+}
+
+/*Modal Box*/
+.catch-modal-content {
+    display: inline-block;
+    vertical-align: middle;
+    position: absolute;
+    z-index: 2;
+    box-sizing: border-box;
+    width: 90%;
+    background: #fff;
+    padding: 21px;
+    -webkit-box-shadow: 0 3px 7px rgba(0, 0, 0, .25);
+    -moz-box-shadow: 0 3px 7px rgba(0, 0, 0, .25);
+    -o-box-shadow: 0 3px 7px rgba(0, 0, 0, .25);
+    -ms-box-shadow: 0 3px 7px rgba(0, 0, 0, .25);
+    box-shadow: 0 3px 7px rgba(0, 0, 0, .25);
+    text-align: left;
+    opacity: 0;
+}
+
+.catch-modal {
+    font-size: 18px;
+    font-size: 1.125rem;
+    line-height: 1.5;
+}
+
+.catch-modal a {
+    text-decoration: none;
+}
+
+.catch-modal img {
+    display: block;
+    height: auto;
+    max-width: 100%;
+}
+
+.catch-modal h2 {
+    margin: 0;
+}
+
+.catch-modal .entry-summary p {
+    margin: 0 0 14px 0
+}
+
+.catch-modal .entry-summary > p:last-of-type {
+    margin-bottom: 0;
+}
+
+.catch-modal .post-thumbnail {
+    margin-bottom: 21px;
+}
+
+.catch-modal .entry-title {
+    margin-bottom: 14px;
+}
+
+.catch-modal .entry-summary {
+    margin-top: 14px;
+}
+
+.catch-modal .catch-popup-close {
+    right: -31px;
+    position: absolute;
+    top: -37px;
+    border-radius: 50%;
+    text-align: center;
+    padding: 20px;
+}
+
+.catch-modal .close-label {
+    color: #111;
+    font-size: 18px;
+    opacity: 0;
+    visibility: hidden;
+    position: absolute;
+    right: -40px;
+    -webkit-transition: 0.5s ease;
+    -moz-transition: 0.5s ease;
+    -o-transition: 0.5s ease;
+    -ms-transition: 0.5s ease;
+    transition: 0.5s ease;
+    top: 9px;
+    z-index: -1;
+}
+
+.catch-modal .catch-popup-close:hover .close-label {
+    opacity: 1;
+    visibility: visible;
+    right: -45px;
+}
+
+
+html.catch-popup-open.catch-popup-open-overlay {
+  overflow: hidden;
+}
+
+html.catch-popup-open.catch-popup-open-overlay.catch-popup-open-fixed .catch-popup-overlay {
+  overflow: hidden;
+}
+
+html.catch-popup-open.catch-popup-open-overlay.catch-popup-open-fixed .catch-popup-container {
+  position: fixed;
+}
+
+html.catch-popup-open.catch-popup-open-overlay.catch-popup-open-scrollable body > *[aria-hidden] {
+  padding-right: 15px;
+}
+
+html.catch-popup-open.catch-popup-open-overlay.catch-popup-open-scrollable .catch-popup-overlay.catch-popup-active {
+  overflow-y: scroll;
+  -webkit-overflow-scrolling: touch;
+}
+
+html.catch-popup-open.catch-popup-open-overlay-disabled.catch-popup-open-fixed .catch-popup-container {
+  position: fixed;
+}
+
+html.catch-popup-open.catch-popup-open-overlay-disabled.catch-popup-open-scrollable .catch-popup-overlay.catch-popup-active {
+  position: static;
+  height: auto;
+  width: auto;
+}
+
+@media only screen and (min-width: 1024px) {
+  .catch-popup-container.catch-popup-responsive.catch-popup-responsive-nano {
+    width: 10%;
+  }
+  .catch-popup-container.catch-popup-responsive.catch-popup-responsive-micro {
+    width: 20%;
+  }
+  .catch-popup-container.catch-popup-responsive.catch-popup-responsive-tiny {
+    width: 30%;
+  }
+  .catch-popup-container.catch-popup-responsive.catch-popup-responsive-small {
+    width: 40%;
+  }
+  .catch-popup-container.catch-popup-responsive.catch-popup-responsive-medium {
+    width: 60%;
+  }
+  .catch-popup-container.catch-popup-responsive.catch-popup-responsive-normal {
+    width: 70%;
+  }
+  .catch-popup-container.catch-popup-responsive.catch-popup-responsive-large {
+    width: 80%;
+  }
+  .catch-popup-container.catch-popup-responsive.catch-popup-responsive-xlarge {
+    width: 95%;
+  }
+  .catch-popup-container.catch-popup-responsive.catch-popup-position-fixed {
+    position: fixed;
+  }
+}
+
+@-webkit-keyframes slide-in {
+  0%   { opacity: 0; }
+  100% { opacity: 1; }
+}
+@-moz-keyframes slide-in {
+  0%   { opacity: 0; }
+  100% { opacity: 1; }
+}
+@-o-keyframes slide-in {
+  0%   { opacity: 0; }
+  100% { opacity: 1; }
+}
+@keyframes slide-in {
+  0%   { opacity: 0; }
+  100% { opacity: 1; }
+}
+
+.catch-popup-trigger {
+    cursor: pointer;
+}

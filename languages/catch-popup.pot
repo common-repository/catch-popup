@@ -1,0 +1,1036 @@
+# Copyright (C) 2018-2022 Catch Plugins
+# This file is distributed under the GNU General Public License v2 or later.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Catch Popup\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/tags/_s\n"
+"POT-Creation-Date: 2022-12-13 19:36-0800\n"
+"PO-Revision-Date: 2016-12-12 09:23-0500\n"
+"Last-Translator: Sakin Shrestha <info@catchplugins.com>\n"
+"Language-Team: Catch Plugins <info@catchplugins.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 3.1.1\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;esc_attr_e;esc_attr__;_nx;_x;"
+"esc_html_e;esc_html__;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_n_noop:1,2;"
+"__ngettext_noop:1,2;_c,_nc:4c,1,2\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../inc/catch-popup-block/index.php:43
+msgid "Click Me"
+msgstr ""
+
+#: ../inc/defaults.php:8 ../inc/defaults.php:106
+msgid "None"
+msgstr ""
+
+#: ../inc/defaults.php:9
+msgid "Solid"
+msgstr ""
+
+#: ../inc/defaults.php:10
+msgid "Dotted"
+msgstr ""
+
+#: ../inc/defaults.php:11
+msgid "Dashed"
+msgstr ""
+
+#: ../inc/defaults.php:12
+msgid "Double"
+msgstr ""
+
+#: ../inc/defaults.php:13
+msgid "Groove"
+msgstr ""
+
+#: ../inc/defaults.php:14
+msgid "Inset (Inner Shadow)"
+msgstr ""
+
+#: ../inc/defaults.php:15
+msgid "Outset"
+msgstr ""
+
+#: ../inc/defaults.php:16
+msgid "Ridge"
+msgstr ""
+
+#: ../inc/defaults.php:23 ../inc/popup.php:242 ../inc/theme.php:332
+msgid "Left"
+msgstr ""
+
+#: ../inc/defaults.php:24
+msgid "Center"
+msgstr ""
+
+#: ../inc/defaults.php:25 ../inc/popup.php:229 ../inc/theme.php:312
+msgid "Right"
+msgstr ""
+
+#: ../inc/defaults.php:26
+msgid "Justify"
+msgstr ""
+
+#: ../inc/defaults.php:33
+msgid "Normal"
+msgstr ""
+
+#: ../inc/defaults.php:34
+msgid "Italic"
+msgstr ""
+
+#: ../inc/defaults.php:41
+msgid "Top Left"
+msgstr ""
+
+#: ../inc/defaults.php:42
+msgid "Top Center"
+msgstr ""
+
+#: ../inc/defaults.php:43
+msgid "Top Right"
+msgstr ""
+
+#: ../inc/defaults.php:44
+msgid "Middle Left"
+msgstr ""
+
+#: ../inc/defaults.php:45
+msgid "Middle Center"
+msgstr ""
+
+#: ../inc/defaults.php:46
+msgid "Middle Right"
+msgstr ""
+
+#: ../inc/defaults.php:47
+msgid "Bottom Left"
+msgstr ""
+
+#: ../inc/defaults.php:48
+msgid "Bottom Center"
+msgstr ""
+
+#: ../inc/defaults.php:49
+msgid "Bottom Right"
+msgstr ""
+
+#: ../inc/defaults.php:56
+msgid "No"
+msgstr ""
+
+#: ../inc/defaults.php:57
+msgid "Yes"
+msgstr ""
+
+#: ../inc/defaults.php:64
+msgid "100"
+msgstr ""
+
+#: ../inc/defaults.php:65
+msgid "200"
+msgstr ""
+
+#: ../inc/defaults.php:66
+msgid "300"
+msgstr ""
+
+#: ../inc/defaults.php:67
+msgid "400 (Normal)"
+msgstr ""
+
+#: ../inc/defaults.php:68
+msgid "500"
+msgstr ""
+
+#: ../inc/defaults.php:69
+msgid "600"
+msgstr ""
+
+#: ../inc/defaults.php:70
+msgid "700 (Bold)"
+msgstr ""
+
+#: ../inc/defaults.php:71
+msgid "800"
+msgstr ""
+
+#: ../inc/defaults.php:72
+msgid "900"
+msgstr ""
+
+#: ../inc/defaults.php:79
+msgid "Nano - 10%"
+msgstr ""
+
+#: ../inc/defaults.php:80
+msgid "Micro - 20%"
+msgstr ""
+
+#: ../inc/defaults.php:81
+msgid "Tiny - 30%"
+msgstr ""
+
+#: ../inc/defaults.php:82
+msgid "Small - 40%"
+msgstr ""
+
+#: ../inc/defaults.php:83
+msgid "Medium - 60%"
+msgstr ""
+
+#: ../inc/defaults.php:84
+msgid "Normal - 70%"
+msgstr ""
+
+#: ../inc/defaults.php:85
+msgid "Large - 80%"
+msgstr ""
+
+#: ../inc/defaults.php:86
+msgid "X-large - 95%"
+msgstr ""
+
+#: ../inc/defaults.php:87
+msgid "Auto"
+msgstr ""
+
+#: ../inc/defaults.php:88
+msgid "Custom"
+msgstr ""
+
+#: ../inc/defaults.php:96 ../inc/popup.php:219 ../inc/popup.php:232
+#: ../inc/popup.php:245 ../inc/popup.php:257
+msgid "px"
+msgstr ""
+
+#: ../inc/defaults.php:97 ../inc/popup.php:124 ../inc/popup.php:136
+msgid "%"
+msgstr ""
+
+#: ../inc/defaults.php:98
+msgid "em"
+msgstr ""
+
+#: ../inc/defaults.php:99
+msgid "rem"
+msgstr ""
+
+#: ../inc/defaults.php:107
+msgid "Fade"
+msgstr ""
+
+#: ../inc/defaults.php:108
+msgid "Slide"
+msgstr ""
+
+#: ../inc/defaults.php:109
+msgid "Fade & Slide"
+msgstr ""
+
+#: ../inc/defaults.php:150 ../inc/popup.php:39 ../inc/theme.php:33
+msgid "Close"
+msgstr ""
+
+#: ../inc/defaults.php:230
+msgid "Arial Black, Gadget, sans-serif"
+msgstr ""
+
+#: ../inc/defaults.php:231
+msgid "Allan, sans-serif"
+msgstr ""
+
+#: ../inc/defaults.php:232
+msgid "Allerta, sans-serif"
+msgstr ""
+
+#: ../inc/defaults.php:233
+msgid "Amaranth, sans-serif"
+msgstr ""
+
+#: ../inc/defaults.php:234 ../inc/defaults.php:236
+msgid "Amatic SC, cursive"
+msgstr ""
+
+#: ../inc/defaults.php:235
+msgid "Arial, Helvetica, sans-serif"
+msgstr ""
+
+#: ../inc/defaults.php:237
+msgid "Bitter, sans-serif"
+msgstr ""
+
+#: ../inc/defaults.php:238
+msgid "Cabin, sans-serif"
+msgstr ""
+
+#: ../inc/defaults.php:239
+msgid "Cantarell, sans-serif"
+msgstr ""
+
+#: ../inc/defaults.php:240
+msgid "Century Gothic, sans-serif"
+msgstr ""
+
+#: ../inc/defaults.php:241
+msgid "Courier New, Courier, monospace"
+msgstr ""
+
+#: ../inc/defaults.php:242
+msgid "Crimson Text, sans-serif"
+msgstr ""
+
+#: ../inc/defaults.php:243
+msgid "Cuprum, sans-serif"
+msgstr ""
+
+#: ../inc/defaults.php:244
+msgid "Dancing Script, sans-serif"
+msgstr ""
+
+#: ../inc/defaults.php:245
+msgid "Droid Sans, sans-serif"
+msgstr ""
+
+#: ../inc/defaults.php:246
+msgid "Exo, sans-serif"
+msgstr ""
+
+#: ../inc/defaults.php:247
+msgid "Exo 2, sans-serif"
+msgstr ""
+
+#: ../inc/defaults.php:248
+msgid "Georgia, Times New Roman, Times, serif"
+msgstr ""
+
+#: ../inc/defaults.php:249
+msgid "Helvetica Neue,Helvetica,Arial,sans-serif"
+msgstr ""
+
+#: ../inc/defaults.php:250
+msgid "Istok Web, sans-serif"
+msgstr ""
+
+#: ../inc/defaults.php:251
+msgid "Droid Serif, sans-serif"
+msgstr ""
+
+#: ../inc/defaults.php:252
+msgid "Impact, Charcoal, sans-serif"
+msgstr ""
+
+#: ../inc/defaults.php:253
+msgid "Josefin Sans, sans-serif"
+msgstr ""
+
+#: ../inc/defaults.php:254
+msgid "Lucida Sans Unicode, Lucida Grande, sans-serif"
+msgstr ""
+
+#: ../inc/defaults.php:255
+msgid "Lucida Grande, Lucida Sans Unicode, sans-serif"
+msgstr ""
+
+#: ../inc/defaults.php:256
+msgid "Lobster, sans-serif"
+msgstr ""
+
+#: ../inc/defaults.php:257
+msgid "Lora, serif"
+msgstr ""
+
+#: ../inc/defaults.php:258
+msgid "Monaco, Consolas, Lucida Console, monospace, sans-serif"
+msgstr ""
+
+#: ../inc/defaults.php:259
+msgid "Muli, sans-serif"
+msgstr ""
+
+#: ../inc/defaults.php:260
+msgid "Montserrat, sans-serif"
+msgstr ""
+
+#: ../inc/defaults.php:261
+msgid "Nobile, sans-serif"
+msgstr ""
+
+#: ../inc/defaults.php:262
+msgid "Noto Serif, serif"
+msgstr ""
+
+#: ../inc/defaults.php:263
+msgid "Neuton, serifNeuton, serif"
+msgstr ""
+
+#: ../inc/defaults.php:264
+msgid "Open Sans, sans-serif"
+msgstr ""
+
+#: ../inc/defaults.php:265
+msgid "Oswald, sans-serif"
+msgstr ""
+
+#: ../inc/defaults.php:266
+msgid "Palatino, Palatino Linotype, Book Antiqua, serif"
+msgstr ""
+
+#: ../inc/defaults.php:267
+msgid "Patua One, sans-serif"
+msgstr ""
+
+#: ../inc/defaults.php:268
+msgid "Poppins, sans-serif"
+msgstr ""
+
+#: ../inc/defaults.php:269
+msgid "Playfair Display, sans-serif"
+msgstr ""
+
+#: ../inc/defaults.php:270
+msgid "PT Sans, sans-serif"
+msgstr ""
+
+#: ../inc/defaults.php:271
+msgid "PT Serif, serif"
+msgstr ""
+
+#: ../inc/defaults.php:272
+msgid "Quattrocento Sans, sans-serif"
+msgstr ""
+
+#: ../inc/defaults.php:273
+msgid "Roboto Slab, serif"
+msgstr ""
+
+#: ../inc/defaults.php:274
+msgid "Rubik, serif"
+msgstr ""
+
+#: ../inc/defaults.php:275
+msgid "Sans Serif, Arial"
+msgstr ""
+
+#: ../inc/defaults.php:276
+msgid "Source Sans Pro, sans-serif"
+msgstr ""
+
+#: ../inc/defaults.php:277
+msgid "Tahoma, Geneva, sans-serif"
+msgstr ""
+
+#: ../inc/defaults.php:278
+msgid "Trebuchet MS, Helvetica, sans-serif"
+msgstr ""
+
+#: ../inc/defaults.php:279
+msgid "Times New Roman, Times, serif"
+msgstr ""
+
+#: ../inc/defaults.php:280
+msgid "Varela, sans-serif"
+msgstr ""
+
+#: ../inc/defaults.php:281
+msgid "Verdana, Geneva, sans-serif"
+msgstr ""
+
+#: ../inc/defaults.php:282
+msgid "Yanone Kaffeesatz, sans-serif"
+msgstr ""
+
+#: ../inc/getters.php:156
+msgid "Home"
+msgstr ""
+
+#: ../inc/getters.php:160
+msgid "Search"
+msgstr ""
+
+#: ../inc/getters.php:164
+msgid "404"
+msgstr ""
+
+#: ../inc/getters.php:170
+msgid "All Pages"
+msgstr ""
+
+#: ../inc/getters.php:174
+msgid "Selected Pages"
+msgstr ""
+
+#: ../inc/getters.php:180
+msgid "All Posts"
+msgstr ""
+
+#: ../inc/getters.php:184
+msgid "Selected Posts"
+msgstr ""
+
+#: ../inc/getters.php:188
+msgid "With Categories"
+msgstr ""
+
+#: ../inc/getters.php:192
+msgid "With Tags"
+msgstr ""
+
+#: ../inc/getters.php:196
+msgid "Blog Index"
+msgstr ""
+
+#: ../inc/getters.php:202
+msgid "All Media"
+msgstr ""
+
+#: ../inc/getters.php:206
+msgid "Selected Media"
+msgstr ""
+
+#: ../inc/install-functions.php:32
+msgid "Default"
+msgstr ""
+
+#: ../inc/install-functions.php:39
+msgid "Theme Border"
+msgstr ""
+
+#: ../inc/install-functions.php:46
+msgid "Theme Blue"
+msgstr ""
+
+#: ../inc/install-functions.php:53
+msgid "Theme Light"
+msgstr ""
+
+#: ../inc/install-functions.php:60
+msgid "Theme Round"
+msgstr ""
+
+#: ../inc/popup.php:37
+msgid "Triggers"
+msgstr ""
+
+#: ../inc/popup.php:38
+msgid "Display"
+msgstr ""
+
+#: ../inc/popup.php:40
+msgid "Targeting"
+msgstr ""
+
+#: ../inc/popup.php:46
+msgid "How to show popup?"
+msgstr ""
+
+#: ../inc/popup.php:48
+msgid "Click Open"
+msgstr ""
+
+#: ../inc/popup.php:49
+msgid "Auto Open/Time delay"
+msgstr ""
+
+#: ../inc/popup.php:51
+msgid ""
+"Select how you want to display popup, automatically on page load or on click "
+"(On click require to use shortcode to show popup.)"
+msgstr ""
+
+#: ../inc/popup.php:60
+msgid "Delay"
+msgstr ""
+
+#: ../inc/popup.php:62 ../inc/popup.php:289
+msgid "ms"
+msgstr ""
+
+#: ../inc/popup.php:63
+msgid "Adds delay to open popup on page load."
+msgstr ""
+
+#: ../inc/popup.php:69
+msgid "Appearance"
+msgstr ""
+
+#: ../inc/popup.php:70 ../inc/theme.php:267
+msgid "Size"
+msgstr ""
+
+#: ../inc/popup.php:71
+msgid "Position"
+msgstr ""
+
+#: ../inc/popup.php:73
+msgid "Advanced"
+msgstr ""
+
+#: ../inc/popup.php:79
+msgid "Popup Theme"
+msgstr ""
+
+#: ../inc/popup.php:81
+msgid "Select Popup Theme"
+msgstr ""
+
+#: ../inc/popup.php:89
+msgid ""
+"Select the theme you want to use on the popup. Catch Popup comes with 5 "
+"inbuilt themes. You can custom these themes and add your own as well."
+msgstr ""
+
+#: ../inc/popup.php:97
+msgid "Window Size"
+msgstr ""
+
+#: ../inc/popup.php:102
+msgid "Responsive Sizes"
+msgstr ""
+
+#: ../inc/popup.php:104
+msgid "Other Sizes"
+msgstr ""
+
+#: ../inc/popup.php:113
+msgid "Defines the size of the popup."
+msgstr ""
+
+#: ../inc/popup.php:122
+msgid "Min Width"
+msgstr ""
+
+#: ../inc/popup.php:125
+msgid "Minimum width for the popup. Default is 0."
+msgstr ""
+
+#: ../inc/popup.php:134
+msgid "Max Width"
+msgstr ""
+
+#: ../inc/popup.php:137
+msgid "Maximum width for the popup. Default is 100."
+msgstr ""
+
+#: ../inc/popup.php:149 ../inc/theme.php:349
+msgid "Width"
+msgstr ""
+
+#: ../inc/popup.php:152
+msgid "Adjust custom width for the popup. Default is 640."
+msgstr ""
+
+#: ../inc/popup.php:160
+msgid "Select the unit for custom width. Default is px."
+msgstr ""
+
+#: ../inc/popup.php:170
+msgid "Auto adjust height"
+msgstr ""
+
+#: ../inc/popup.php:171
+msgid "Check if you want the popup to have automatic adjustable height."
+msgstr ""
+
+#: ../inc/popup.php:180 ../inc/theme.php:344
+msgid "Height"
+msgstr ""
+
+#: ../inc/popup.php:183
+msgid "Adjust custom height for the popup. Default is 640."
+msgstr ""
+
+#: ../inc/popup.php:191
+msgid "Select the unit for custom height. Default is px."
+msgstr ""
+
+#: ../inc/popup.php:199 ../inc/theme.php:286
+msgid "Location"
+msgstr ""
+
+#: ../inc/popup.php:207
+msgid "Choose position for the popup to be displayed. Default is Top Center"
+msgstr ""
+
+#: ../inc/popup.php:216 ../inc/theme.php:302
+msgid "Top"
+msgstr ""
+
+#: ../inc/popup.php:220
+msgid "Adjust the custom distance of popup from Top. Default is 100."
+msgstr ""
+
+#: ../inc/popup.php:233
+msgid "Adjust the custom distance of popup from right. Default is 0."
+msgstr ""
+
+#: ../inc/popup.php:246
+msgid "Adjust the custom distance of popup from left. Default is 0."
+msgstr ""
+
+#: ../inc/popup.php:254 ../inc/theme.php:322
+msgid "Bottom"
+msgstr ""
+
+#: ../inc/popup.php:258
+msgid "Adjust the custom distance of popup from bottom. Default is 0."
+msgstr ""
+
+#: ../inc/popup.php:263
+msgid "Z-Index"
+msgstr ""
+
+#: ../inc/popup.php:266
+msgid "Adjust the Z-index for the popup. Default is 10000."
+msgstr ""
+
+#: ../inc/popup.php:274
+msgid "Button"
+msgstr ""
+
+#: ../inc/popup.php:275
+msgid "Alternative Methods"
+msgstr ""
+
+#: ../inc/popup.php:281 ../inc/theme.php:278
+msgid "Button Text"
+msgstr ""
+
+#: ../inc/popup.php:283
+msgid "Custonm text for popup Close button, shows on hover. Default is blank"
+msgstr ""
+
+#: ../inc/popup.php:287
+msgid "Close button delay"
+msgstr ""
+
+#: ../inc/popup.php:290
+msgid ""
+"Adds delay to the close button to show up. Popup can only be closed after "
+"the time set for delay."
+msgstr ""
+
+#: ../inc/popup.php:296
+msgid "Click overlay to close"
+msgstr ""
+
+#: ../inc/popup.php:297
+msgid ""
+"Check to allow to close popup if user clicks away somewhere on overlay "
+"beside popup."
+msgstr ""
+
+#: ../inc/popup.php:302
+msgid "Press ESC to close"
+msgstr ""
+
+#: ../inc/popup.php:303
+msgid "Check to close popup with ESC button on keyboard."
+msgstr ""
+
+#: ../inc/popup.php:308
+msgid "Press F4 to close"
+msgstr ""
+
+#: ../inc/popup.php:309
+msgid "Check to close popup with F4 button on keyboard."
+msgstr ""
+
+#: ../inc/popup.php:315
+msgid "Show popup on"
+msgstr ""
+
+#: ../inc/popup.php:316
+msgid ""
+"You can show the popup on the desired pages by adding the conditions below "
+"with + Add more button. By default the popup show on all pages."
+msgstr ""
+
+#: ../inc/popup.php:329 ../inc/popup.php:400
+msgid "And"
+msgstr ""
+
+#: ../inc/popup.php:335 ../inc/popup.php:399
+msgid "Or"
+msgstr ""
+
+#: ../inc/popup.php:365
+msgid "Remove"
+msgstr ""
+
+#: ../inc/popup.php:403
+msgid "Add more"
+msgstr ""
+
+#: ../inc/register-post-types.php:13
+msgctxt "post type general name"
+msgid "Popup"
+msgstr ""
+
+#: ../inc/register-post-types.php:14
+msgctxt "post type singular name"
+msgid "Popup"
+msgstr ""
+
+#: ../inc/register-post-types.php:15
+msgctxt "admin menu"
+msgid "Popup"
+msgstr ""
+
+#: ../inc/register-post-types.php:16
+msgctxt "add new on admin bar"
+msgid "Popup"
+msgstr ""
+
+#: ../inc/register-post-types.php:17
+msgctxt "popup"
+msgid "Add New"
+msgstr ""
+
+#: ../inc/register-post-types.php:18
+msgid "Add New Popup"
+msgstr ""
+
+#: ../inc/register-post-types.php:19
+msgid "New Popup"
+msgstr ""
+
+#: ../inc/register-post-types.php:20
+msgid "Edit Popup"
+msgstr ""
+
+#: ../inc/register-post-types.php:21
+msgid "View Popup"
+msgstr ""
+
+#: ../inc/register-post-types.php:22
+msgid "All Popup"
+msgstr ""
+
+#: ../inc/register-post-types.php:23
+msgid "Search Popup"
+msgstr ""
+
+#: ../inc/register-post-types.php:24
+msgid "Parent Popup:"
+msgstr ""
+
+#: ../inc/register-post-types.php:25
+msgid "No popups found."
+msgstr ""
+
+#: ../inc/register-post-types.php:26
+msgid "No popups found in Trash."
+msgstr ""
+
+#: ../inc/register-post-types.php:31 ../inc/register-post-types.php:77
+msgid "Description."
+msgstr ""
+
+#: ../inc/register-post-types.php:59
+msgctxt "post type general name"
+msgid "Popup Themes"
+msgstr ""
+
+#: ../inc/register-post-types.php:60
+msgctxt "post type singular name"
+msgid "Popup Theme"
+msgstr ""
+
+#: ../inc/register-post-types.php:61
+msgctxt "admin menu"
+msgid "Popup Themes"
+msgstr ""
+
+#: ../inc/register-post-types.php:62
+msgctxt "add new on admin bar"
+msgid "Popup Theme"
+msgstr ""
+
+#: ../inc/register-post-types.php:63
+msgctxt "popup themes"
+msgid "Add New"
+msgstr ""
+
+#: ../inc/register-post-types.php:64
+msgid "Add New Popup Theme"
+msgstr ""
+
+#: ../inc/register-post-types.php:65
+msgid "New Popup Theme"
+msgstr ""
+
+#: ../inc/register-post-types.php:66
+msgid "Edit Popup Theme"
+msgstr ""
+
+#: ../inc/register-post-types.php:67
+msgid "View Popup Theme"
+msgstr ""
+
+#: ../inc/register-post-types.php:68
+msgid "All Popup Themes"
+msgstr ""
+
+#: ../inc/register-post-types.php:69
+msgid "Search Popup Themes"
+msgstr ""
+
+#: ../inc/register-post-types.php:70
+msgid "Parent Popup Themes:"
+msgstr ""
+
+#: ../inc/register-post-types.php:71
+msgid "No popup themes found."
+msgstr ""
+
+#: ../inc/register-post-types.php:72
+msgid "No popup themes found in Trash."
+msgstr ""
+
+#: ../inc/register-post-types.php:104
+msgid "Theme"
+msgstr ""
+
+#: ../inc/register-post-types.php:122
+msgid "No theme selected"
+msgstr ""
+
+#: ../inc/theme.php:29
+msgid "Overlay"
+msgstr ""
+
+#: ../inc/theme.php:30 ../inc/theme.php:51
+msgid "Container"
+msgstr ""
+
+#: ../inc/theme.php:31
+msgid "Title"
+msgstr ""
+
+#: ../inc/theme.php:32
+msgid "Content"
+msgstr ""
+
+#: ../inc/theme.php:39 ../inc/theme.php:72 ../inc/theme.php:94
+#: ../inc/theme.php:105 ../inc/theme.php:219 ../inc/theme.php:247
+#: ../inc/theme.php:361 ../inc/theme.php:372 ../inc/theme.php:433
+#: ../inc/theme.php:444 ../inc/theme.php:486
+msgid "Color"
+msgstr ""
+
+#: ../inc/theme.php:43 ../inc/theme.php:76 ../inc/theme.php:109
+#: ../inc/theme.php:223 ../inc/theme.php:365 ../inc/theme.php:448
+#: ../inc/theme.php:490
+msgid "Opacity"
+msgstr ""
+
+#: ../inc/theme.php:52 ../inc/theme.php:268
+msgid "Background"
+msgstr ""
+
+#: ../inc/theme.php:53 ../inc/theme.php:270
+msgid "Border"
+msgstr ""
+
+#: ../inc/theme.php:54 ../inc/theme.php:271
+msgid "Dropshadow"
+msgstr ""
+
+#: ../inc/theme.php:60 ../inc/theme.php:339
+msgid "Padding"
+msgstr ""
+
+#: ../inc/theme.php:65 ../inc/theme.php:354
+msgid "Border Radius"
+msgstr ""
+
+#: ../inc/theme.php:83 ../inc/theme.php:195 ../inc/theme.php:422
+msgid "Style"
+msgstr ""
+
+#: ../inc/theme.php:98 ../inc/theme.php:437
+msgid "Thickness"
+msgstr ""
+
+#: ../inc/theme.php:114 ../inc/theme.php:228 ../inc/theme.php:453
+#: ../inc/theme.php:495
+msgid "Horizontal Position"
+msgstr ""
+
+#: ../inc/theme.php:119 ../inc/theme.php:233 ../inc/theme.php:458
+#: ../inc/theme.php:500
+msgid "Vertical Position"
+msgstr ""
+
+#: ../inc/theme.php:124 ../inc/theme.php:238 ../inc/theme.php:463
+#: ../inc/theme.php:505
+msgid "Blur Radius"
+msgstr ""
+
+#: ../inc/theme.php:129 ../inc/theme.php:468
+msgid "Spread"
+msgstr ""
+
+#: ../inc/theme.php:134 ../inc/theme.php:473
+msgid "Inset"
+msgstr ""
+
+#: ../inc/theme.php:151 ../inc/theme.php:269
+msgid "Font"
+msgstr ""
+
+#: ../inc/theme.php:152
+msgid "Text Shadow"
+msgstr ""
+
+#: ../inc/theme.php:158
+msgid "Font Color"
+msgstr ""
+
+#: ../inc/theme.php:162 ../inc/theme.php:376
+msgid "Font Size"
+msgstr ""
+
+#: ../inc/theme.php:167 ../inc/theme.php:381
+msgid "Line Height"
+msgstr ""
+
+#: ../inc/theme.php:172 ../inc/theme.php:251 ../inc/theme.php:386
+msgid "Font Family"
+msgstr ""
+
+#: ../inc/theme.php:174 ../inc/theme.php:253 ../inc/theme.php:388
+msgid "Use theme fonts"
+msgstr ""
+
+#: ../inc/theme.php:184 ../inc/theme.php:398
+msgid "Font Weight"
+msgstr ""
+
+#: ../inc/theme.php:206
+msgid "Alignment"
+msgstr ""
+
+#: ../inc/theme.php:266
+msgid "General"
+msgstr ""
+
+#: ../inc/theme.php:272
+msgid "Textshadow"
+msgstr ""
+
+#: ../inc/theme.php:282
+msgid "Position Outside Container"
+msgstr ""
+
+#: ../inc/theme.php:409
+msgid "Font Style"
+msgstr ""
